@@ -1,0 +1,21 @@
+[submodule "src/TVTest"]
+	path = src/TVTest
+	url = https://github.com/DBCTRADO/TVTest.git
+[submodule "src/TVTestVideoDecoder"]
+	path = src/TVTestVideoDecoder
+	url = https://github.com/DBCTRADO/TVTestVideoDecoder
+[submodule "src/BonDriver_PT3-ST"]
+	path = src/BonDriver_PT3-ST
+	url = https://github.com/tsukumijima/BonDriver_PT3-ST
+[submodule "src/CasProcessor"]
+	path = src/CasProcessor
+	url = https://github.com/tsukumijima/CasProcessor
+[submodule "src/TvCas"]
+	path = src/TvCas
+	url = https://github.com/tsukumijima/TvCas.git
+[submodule "src/NicoJK"]
+	path = src/NicoJK
+	url = https://github.com/xtne6f/NicoJK
+[submodule "src/jkcnsl"]
+	path = src/jkcnsl
+	url = https://github.com/xtne6f/jkcnsl
